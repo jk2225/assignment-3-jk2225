@@ -4,6 +4,6 @@ title: "Assignment 3 - Create a Website using Quarto and Github Pages"
 
 Jinsung Kim (https://github.com/therkildsen-class/ntres-6100-course-repo-jk2225.git)
 
-Bryan Mcmaster ()
+Bryan Mcmaster (https://github.com/Bm758/assignment-3-bm758.git)
 
 !["Jinsung and Bryan go to Cornell University"](https://cdn-ileknng.nitrocdn.com/wfIpDgggeUboRusPYqcsMDAxgGCcLxRK/assets/images/optimized/rev-fcb9c62/www.collegetransitions.com/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-12_09_45-PM.jpeg)
