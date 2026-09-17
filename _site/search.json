@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Untitled.html#quarto",
+    "href": "Untitled.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Untitled.html#running-code",
+    "href": "Untitled.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Assignment 3 - Create a Website using Quarto and Github Pages",
+    "section": "",
+    "text": "Jinsung Kim (https://github.com/therkildsen-class/ntres-6100-course-repo-jk2225.git)\nBryan Mcmaster ()\n\n\n\n“Jinsung and Bryan go to Cornell University”"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jinsung",
+    "section": "",
+    "text": "I am from Cheonan, South Korea. (An hour drive from Seoul!)\nI have a Shiba Inu (dog) at home in Korea! His name is Maru.\nThis is my second time in Cornell!"
+  }
+]
